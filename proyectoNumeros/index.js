@@ -11,7 +11,7 @@ d=prompt('Ingrese el cuarto número:','');
 
 if (a==b || a==c || a==d || b==c || c==d){
     window.alert("Hay datos repetidos"+"\n");
-    console.log("esto es una prueba de consola")
+    brake;
 }
 else{
     window.alert("No hay datos repetidos"+"\n");
